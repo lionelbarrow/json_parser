@@ -5,7 +5,7 @@ require 'json_parser/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "json_parser"
-  spec.version       = JsonParser::VERSION
+  spec.version       = JSONParser::VERSION
   spec.authors       = ["lionelbarrow"]
   spec.email         = ["lionelbarrow@gmail.com "]
   spec.description   = "Toy JSON parser written for a talk."
