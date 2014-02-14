@@ -1,4 +1,4 @@
-Copyright (c) 2014 lionelbarrow
+Copyright (c) 2014 Lionel Barrow
 
 MIT License
 
