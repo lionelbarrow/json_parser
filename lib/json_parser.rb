@@ -1,3 +1,7 @@
 require "json_parser/version"
 require "json_parser/parser"
-
+require "json_parser/state"
+require "json_parser/states/array"
+require "json_parser/states/boolean"
+require "json_parser/states/initial_state"
+require "json_parser/states/number"

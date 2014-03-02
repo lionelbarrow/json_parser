@@ -31,7 +31,7 @@ describe JSONParser::Parser do
     end
 
     it "works for null" do
-      JSONParser::Parser.parse("[null, 1234, \"hello\"]").should == [null, 1234, "hello"]
+      JSONParser::Parser.parse("[null, 1234, \"hello\"]").should == [nil, 1234, "hello"]
     end
   end
 end
